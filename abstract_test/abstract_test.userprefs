@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Factory.cs">
+    <Files>
+      <File FileName="Assets\AbstractMarker.cs" Line="18" Column="3" />
+      <File FileName="Assets\ConcreteMarker1.cs" Line="11" Column="3" />
+      <File FileName="Assets\ConcreteMarker2.cs" Line="10" Column="40" />
+      <File FileName="Assets\Factory.cs" Line="33" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
